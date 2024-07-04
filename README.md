@@ -7,6 +7,7 @@ Text in DAX Using & Operator:
 Utilizing the & operator in DAX to concatenate text strings has proven essential in creating dynamic and informative labels, enhancing the readability and contextual understanding of data points.
 Color Coding:
 Implementing a strategic color-coding scheme has significantly improved the visual appeal and clarity of the dashboard. This approach helps in quickly distinguishing between different data sets and highlighting critical information.
+
 Filters in Charts:
 Applying filters to charts ensures that only essential and relevant data is displayed. This not only declutters the visual representation but also allows users to focus on specific insights pertinent to their needs.
 Utilizing Appropriate Charts:
